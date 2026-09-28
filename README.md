@@ -87,8 +87,8 @@ python wastewise.py
 
 ## Author
 
-**Pranav Dange**
+**Kratika Bhardwaj**
 
-Integrated M.Tech Computational & Data Science
+B.Tech CSE Core
 
 VIT Bhopal University
